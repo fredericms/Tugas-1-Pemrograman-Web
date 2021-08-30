@@ -1,0 +1,104 @@
+*{
+  margin: 0;
+}
+
+.head, .icon, h2, a{
+  color: white;
+}
+
+.head{
+    background-color: #28ceca;
+    height: 100px;
+}
+
+.head-judul{
+  float: left;
+  font-size: 40px;
+  padding: 20px;
+  font-weight: bold;
+  font-family: 'Lucida Handwriting';
+}
+
+ul{
+  display: block;
+  list-style-type: disc;
+}
+
+.head-navbar li{
+  float: right;
+  padding: 36px;
+}
+
+li{
+  font-family: Calibri;
+  font-size: 14pt;
+  list-style: none;
+  display: list-item;
+}
+
+.main{
+  padding-top: 40px;
+  margin-bottom: 30px;
+  padding-bottom: 50px;
+}
+
+.Quote{
+  margin-top: 40px;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-family: 'Ink Free Regular';
+  font-size: 18pt;
+  font-weight: 400;
+}
+
+.Name{
+  margin-top: 10px;
+  font-family: 'Times New Roman', Times, sans-serif;
+  font-size: 14pt;
+  font-weight: bold;
+}
+
+h1, h2, h4, p{
+  text-align: center;
+}
+
+h1{
+  font-family: 'Times New Roman', Times, sans-serif;
+  font-size: 50pt;
+}
+
+h4{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18pt;
+  margin-top: 10px;
+  font-weight: normal;
+}
+
+span{
+  color: greenyellow;
+}
+
+.footer{
+  margin-top: 50px;
+  background-color: #31516a;
+  height: 100px;
+}
+
+h2{
+  padding-top: 15px;
+  font-family: Calibri;
+  font-size: 14pt;
+  margin-bottom: 10px;
+}
+
+.icon{
+  text-align: center;
+  padding-top: 10px;
+  padding-left: 25px;
+}
+
+a{
+  text-decoration: none;
+  padding: 5px;
+}
+
