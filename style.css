@@ -102,3 +102,10 @@ a{
   padding: 5px;
 }
 
+a:hover, a:active{
+  text-decoration: underline;
+}
+
+a:active{
+  color: black;
+}
